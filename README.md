@@ -1,2 +1,2 @@
 # Fe-C
-EPS doc
+EPS and PDF docs
